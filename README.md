@@ -70,8 +70,8 @@ Version Control    → GitHub
 
 ## 📬 Contact
 
-- 💼 LinkedIn: *(add your LinkedIn URL)*
-- 📧 Email: *(add your email)*
+- 💼 LinkedIn: *https://www.linkedin.com/in/lybh93/*
+- 📧 Email: *lybui93@gmail.com*
 
 ---
 

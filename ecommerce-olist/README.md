@@ -1,1 +1,1 @@
-<img width="1024" height="981" alt="olist_raw_data_model html" src="https://github.com/user-attachments/assets/37714838-2267-40d1-a10d-b6b15f7d6500" />
+<img width="1408" height="768" alt="Gemini_Generated_Image_mct211mct211mct2" src="https://github.com/user-attachments/assets/3bf313bd-5d93-47e2-8e66-b5bd2c8acbcf" />
